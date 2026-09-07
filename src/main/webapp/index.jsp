@@ -7,7 +7,7 @@
 <title>NexusShop — Modern Storefront</title>
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" crossorigin="anonymous">
-
+#Added in comment
 <style>
 :root {
   --bg:#f6f8fc; --surface:#fff; --surface-2:#eef2f7; --ink:#0f172a; --muted:#64748b;
